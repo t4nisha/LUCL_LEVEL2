@@ -1,7 +1,7 @@
 # LULC-Level-2-Classification Using ML
 Land Use Land Cover(LULC) Level-2 Classification using Machine Learning.
 <br>
-Author - OM VISHAL
+Author - Tanisha Chaubey
 
 This repository contains a Jupyter notebook for performing Land Use and Land Cover (LULC) classification using machine learning techniques.
 
